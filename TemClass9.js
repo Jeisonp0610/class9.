@@ -18,6 +18,7 @@ function Vehiculo ( marca, año ,tipo){
 }
 
 let nuevoVehiculo  = new Vehiculo ("chevrolet",2022,"todoterremo");
+console.log("gitbas")
 
 // console.log(nuevoVehiculo);
 
